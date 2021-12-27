@@ -1,0 +1,6 @@
+2021/12/23-21:41:00.593 3318 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_candycrushsoda.king.com_0.indexeddb.leveldb since it was missing.
+2021/12/23-21:41:00.633 3318 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_candycrushsoda.king.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-21:41:19.486 3318 Level-0 table #5: started
+2021/12/23-21:41:19.488 3318 Level-0 table #5: 1079 bytes OK
+2021/12/23-21:41:19.491 3318 Delete type=0 #3
+2021/12/23-21:41:19.492 3318 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

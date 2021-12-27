@@ -1,0 +1,6 @@
+2021/12/15-13:27:58.763 33a0 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_realpython.com_0.indexeddb.leveldb since it was missing.
+2021/12/15-13:27:58.783 33a0 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/15-13:28:23.506 2a5c Level-0 table #5: started
+2021/12/15-13:28:23.512 2a5c Level-0 table #5: 5106 bytes OK
+2021/12/15-13:28:23.514 2a5c Delete type=0 #3
+2021/12/15-13:28:23.515 2a5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

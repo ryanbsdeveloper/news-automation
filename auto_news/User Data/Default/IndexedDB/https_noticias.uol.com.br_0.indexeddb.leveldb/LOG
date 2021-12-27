@@ -1,0 +1,6 @@
+2021/12/15-16:37:19.078 3188 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_noticias.uol.com.br_0.indexeddb.leveldb since it was missing.
+2021/12/15-16:37:19.110 3188 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_noticias.uol.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/15-16:38:43.847 1bc Level-0 table #5: started
+2021/12/15-16:38:43.853 1bc Level-0 table #5: 56671 bytes OK
+2021/12/15-16:38:43.856 1bc Delete type=0 #3
+2021/12/15-16:38:43.857 1bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

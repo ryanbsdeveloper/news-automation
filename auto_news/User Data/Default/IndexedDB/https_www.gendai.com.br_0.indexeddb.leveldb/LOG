@@ -1,0 +1,6 @@
+2021/12/18-02:27:17.598 1b68 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.gendai.com.br_0.indexeddb.leveldb since it was missing.
+2021/12/18-02:27:17.609 1b68 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.gendai.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/18-02:29:21.178 1908 Level-0 table #5: started
+2021/12/18-02:29:21.185 1908 Level-0 table #5: 945 bytes OK
+2021/12/18-02:29:21.188 1908 Delete type=0 #3
+2021/12/18-02:29:21.189 1908 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/12/26-13:53:03.261 37c4 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.geeksforgeeks.org_0.indexeddb.leveldb since it was missing.
+2021/12/26-13:53:03.270 37c4 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.geeksforgeeks.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-13:53:10.178 1e30 Level-0 table #5: started
+2021/12/26-13:53:10.182 1e30 Level-0 table #5: 357 bytes OK
+2021/12/26-13:53:10.186 1e30 Delete type=0 #3
+2021/12/26-13:53:10.186 1e30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

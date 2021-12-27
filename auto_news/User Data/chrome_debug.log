@@ -1,0 +1,7 @@
+[7540:11828:1226/205148.245:INFO:CONSOLE(1279)] "%c%s color: red; background: yellow; font-size: 24px; AVISO", source: /_/mss/boq-dots/_/js/k=boq-dots.DotsSplashUi_default_ms.pt_BR.xI3eH3xfqcY.es5.O/am=8CJLoAEEAAI/d=1/excm=_b,_tp,topstories/ed=1/dg=0/wt=2/esmo=1/rs=ALs0n2NYFKn5ZyS1RNEZVsWKq1Uc7_sg-Q/m=_b,_tp (1279)
+[7540:11828:1226/205148.245:INFO:CONSOLE(1279)] "%c%s font-size: 18px; É possível que o uso deste console permita que invasores falsifiquem sua identidade para roubar informações por meio de um ataque chamado Self-XSS.
+Não insira nem cole códigos que você não conhece.", source: /_/mss/boq-dots/_/js/k=boq-dots.DotsSplashUi_default_ms.pt_BR.xI3eH3xfqcY.es5.O/am=8CJLoAEEAAI/d=1/excm=_b,_tp,topstories/ed=1/dg=0/wt=2/esmo=1/rs=ALs0n2NYFKn5ZyS1RNEZVsWKq1Uc7_sg-Q/m=_b,_tp (1279)
+[7540:11828:1226/205154.200:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source:  (0)
+[7540:11828:1226/205158.720:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[7540:11828:1226/205159.965:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[7540:11828:1226/205211.140:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,6 @@
+2021/12/07-19:25:33.717 1e84 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_lax1-ib.adnxs.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-19:25:33.726 1e84 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_lax1-ib.adnxs.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-19:25:36.770 1e84 Level-0 table #5: started
+2021/12/07-19:25:36.778 1e84 Level-0 table #5: 385 bytes OK
+2021/12/07-19:25:36.784 1e84 Delete type=0 #3
+2021/12/07-19:25:36.785 1e84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

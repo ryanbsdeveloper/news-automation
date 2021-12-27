@@ -1,0 +1,55 @@
+{
+   "checksum": "68aaa9378b7a6179e0108c5e48bf3bb0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13283343229417313",
+            "guid": "a5a9b6ec-abcb-4f91-84f0-30504b35e523",
+            "id": "5",
+            "name": "Ícones Carregando - Download 2 Ícones livre PNG, SVG, ICO ou ICNS",
+            "type": "url",
+            "url": "https://icon-icons.com/pt/icones/busca/?filtro=carregando"
+         }, {
+            "date_added": "13283636551885390",
+            "guid": "0d00be16-b503-4ccf-8233-9851e5f2c6ef",
+            "id": "7",
+            "name": "API CEP - AwesomeAPI",
+            "type": "url",
+            "url": "https://docs.awesomeapi.com.br/api-cep"
+         }, {
+            "date_added": "13283636997956094",
+            "guid": "5ed2d7da-2c68-46f0-890a-cebcddcd6922",
+            "id": "8",
+            "name": "GitHub - public-apis/public-apis: A collective list of free APIs",
+            "type": "url",
+            "url": "https://github.com/public-apis/public-apis"
+         } ],
+         "date_added": "13282780667321250",
+         "date_modified": "13283636997956094",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13282780667321259",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13282780667321263",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAHtNENNMFACGAHtNENNMFADIYChYIAhFJR3BUNNMFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgB7TRDTTBQAhgB7TRDTTBQAyGAoWCAIRSUdwVDTTBQAYACEAAAAAAAAAACAASIWWyvzbL3CFlsr82y8SACABKhhGenJwMHJEWUtxRkV6T1hkY3RVODVnPT0SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6T3BPMHVqYmlJRmt2eWx3ME1YYkdWZDNWdlZQT2wwTnZmcDVaallabUVUZ2k5SFVwc2VqanV6Uk92QkRaU2daejU3dXY4ZW5WQ0xRVlhaaWt0MEhQNElkMDlSZz09GAAgACgAMPPto8SBwfQCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS6wEIBRLmAQocTjJtUDBib3NkeW5DbkFCZEw0WmZxM0o1VTNZPRJmWjpBRHF0QVp6S2xXRG51VTZZUnJhcS9sL0dYcXF3c2FnRnJTaUQ5clMrRzh5NnkyeDF5djQ3QTBlS013akJ6RVEzdVorNkRQWkY2ZUxVcldFejhGMU1oY3lBU2tXNG1LNnlHdz09GAAgAigCMMWhodvI5vQCOOzz96HZL0D6sYL92y9KHElDYlJrTjA2dlMvdFdYZFhxNEhnV3NrQVhScz1aHiIcV1VjSXNWT1lKRGdORkNwOUpneEdENDNCL1Q0PWVLq6nyEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeVIzM1hGdWZNcWd5SkFCeUdlZVlab2s3RC9RMnVZdEtYR29hMWZFVTR1eVpkMUlxYjZMVFVnZDB1cGpMckxtSzNMaFliNxgAIAAoADDz7aPEgcH0AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaejR4NWgzUFlnL0FZSG9OOFhwM3BlWCswL1ZnNTRjVUtMd1crMjA5TkVJbkN5ODBmcDc0ZTRaVDRadmVHVStncCtHazczT1dzZzNxQXYxTGFSVHpFcFV0NTlRYkE9PRgAIAAoADDz7aPEgcH0AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAcS5wEKHHQ4WVg2UUx4TUhEZDJTd0xUUThGZ2xnY1lGMD0SZlo6QURxdEFaektsV0RudVU2WVJyYXEvbC9HWHFxdy9HSXR0dmk3L0pKZEJ4N0RxRzZtdHdkZ3JXTlZNL2xrZjdhdkgwNkhyQmlRWUdRd2l2cTBTQ2lMMkZRS3FteVZUMDhFRkE9PRgAIAIoAjD07qPs9dn0AjjR8eat2i9A5PHmrdovShxUcTJuY1ZTeldJMlUyU2J1bit2NXFDZXpobkU9Wh8iHas3YUVEZWQ5YkNSZUpPYkdUcVVZYWdoN0FnOU09ZX7FEw0S7AEICBLnAQocTDhGVzZnK09OQytsRVplTHdRNUYwNkNwbGZ3PRJmWjpBRHF0QVp6S2xXRG51VTZZUnJhcS9sL0dYcXF3cmtuQmZQY0hSTmsrcFZYcjFmUkNnT20zTTJOTEdFQ2RwME5MeVJKOU1NUlRheml1aFJhOE5uMlR1ajVyL2NQZENMcjZKUT09GAAgAigCMLSJ8cD32fQCOMWOgq7aL0DWjoKu2i9KHG91Vjl5VUFUc3R2VytlUEh5MGZQWjdrM0tGOD1aHyId1XFRbXFMUGl4WWZaYmNoQ055TzArOUlLL0d5UT1lKNDhqSCznsr82y8wAQ==",
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2021/12/07-01:00:41.907 3a5c Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.w3schools.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-01:00:41.917 3a5c Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.w3schools.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-01:00:44.632 34ac Level-0 table #5: started
+2021/12/07-01:00:44.636 34ac Level-0 table #5: 365 bytes OK
+2021/12/07-01:00:44.640 34ac Delete type=0 #3
+2021/12/07-01:00:44.641 34ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

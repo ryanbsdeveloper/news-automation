@@ -1,0 +1,18 @@
+2021/12/26-16:33:04.687 1884 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-16:33:04.687 1884 Recovering log #22
+2021/12/26-16:33:04.710 1884 Reusing old log C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/000022.log 
+2021/12/26-16:35:32.411 23ac Level-0 table #26: started
+2021/12/26-16:35:32.430 23ac Level-0 table #26: 796443 bytes OK
+2021/12/26-16:35:32.433 23ac Delete type=0 #22
+2021/12/26-16:37:01.187 44e4 Compacting 1@0 + 1@1 files
+2021/12/26-16:37:01.205 44e4 Generated table #27@0: 866 keys, 36202 bytes
+2021/12/26-16:37:01.205 44e4 Compacted 1@0 + 1@1 files => 36202 bytes
+2021/12/26-16:37:01.207 44e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/26-16:37:01.208 44e4 Delete type=2 #23
+2021/12/26-16:37:01.208 44e4 Delete type=2 #26
+2021/12/26-16:38:02.041 44e4 Level-0 table #29: started
+2021/12/26-16:38:02.062 44e4 Level-0 table #29: 585551 bytes OK
+2021/12/26-16:38:02.064 44e4 Delete type=0 #25
+2021/12/26-16:39:51.960 23ac Level-0 table #31: started
+2021/12/26-16:39:51.977 23ac Level-0 table #31: 578099 bytes OK
+2021/12/26-16:39:51.981 23ac Delete type=0 #28

@@ -1,0 +1,6 @@
+2021/12/10-01:20:35.893 590 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_site-v1.gama.academy_0.indexeddb.leveldb since it was missing.
+2021/12/10-01:20:35.906 590 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_site-v1.gama.academy_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/10-01:22:07.444 590 Level-0 table #5: started
+2021/12/10-01:22:07.448 590 Level-0 table #5: 5062 bytes OK
+2021/12/10-01:22:07.451 590 Delete type=0 #3
+2021/12/10-01:22:07.452 590 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

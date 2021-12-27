@@ -1,0 +1,6 @@
+2021/12/07-09:46:09.662 f50 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_b083900d230f365c4d1c09939f99e610.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-09:46:09.673 f50 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_b083900d230f365c4d1c09939f99e610.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-09:46:17.644 f50 Level-0 table #5: started
+2021/12/07-09:46:17.649 f50 Level-0 table #5: 480 bytes OK
+2021/12/07-09:46:17.653 f50 Delete type=0 #3
+2021/12/07-09:46:17.653 f50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

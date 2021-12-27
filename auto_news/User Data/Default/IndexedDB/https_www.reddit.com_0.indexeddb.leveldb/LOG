@@ -1,0 +1,6 @@
+2021/12/07-00:13:45.446 3a1c Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2021/12/07-00:13:45.457 3a1c Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-00:14:29.124 934 Level-0 table #5: started
+2021/12/07-00:14:29.129 934 Level-0 table #5: 1861 bytes OK
+2021/12/07-00:14:29.133 934 Delete type=0 #3
+2021/12/07-00:14:29.134 934 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

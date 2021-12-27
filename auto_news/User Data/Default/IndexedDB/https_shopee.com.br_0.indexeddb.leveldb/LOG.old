@@ -1,0 +1,23 @@
+2021/12/22-13:21:53.409 3b2c Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-13:21:53.410 3b2c Recovering log #40
+2021/12/22-13:21:53.410 3b2c Reusing old log C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb/000040.log 
+2021/12/22-13:21:53.516 4410 Level-0 table #45: started
+2021/12/22-13:21:53.519 4410 Level-0 table #45: 562 bytes OK
+2021/12/22-13:21:53.522 4410 Delete type=0 #40
+2021/12/22-13:21:53.522 4410 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/22-13:22:08.138 3ee0 Compacting 1@1 + 1@2 files
+2021/12/22-13:22:08.144 3ee0 Generated table #46@1: 799 keys, 17802 bytes
+2021/12/22-13:22:08.144 3ee0 Compacted 1@1 + 1@2 files => 17802 bytes
+2021/12/22-13:22:08.145 3ee0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-13:22:08.146 3ee0 Delete type=2 #42
+2021/12/22-13:22:08.146 3ee0 Delete type=2 #45
+2021/12/22-13:33:20.051 3ee0 Level-0 table #48: started
+2021/12/22-13:33:20.078 3ee0 Level-0 table #48: 991008 bytes OK
+2021/12/22-13:33:20.079 3ee0 Delete type=0 #44
+2021/12/22-13:33:20.080 3ee0 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/22-13:34:08.548 43bc Compacting 1@1 + 1@2 files
+2021/12/22-13:34:08.578 43bc Generated table #49@1: 998 keys, 23443 bytes
+2021/12/22-13:34:08.578 43bc Compacted 1@1 + 1@2 files => 23443 bytes
+2021/12/22-13:34:08.580 43bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-13:34:08.581 43bc Delete type=2 #46
+2021/12/22-13:34:08.581 43bc Delete type=2 #48

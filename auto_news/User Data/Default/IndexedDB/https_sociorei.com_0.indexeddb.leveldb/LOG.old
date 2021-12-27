@@ -1,0 +1,7 @@
+2021/12/21-13:08:51.469 42e8 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_sociorei.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-13:08:51.470 42e8 Recovering log #3
+2021/12/21-13:08:51.471 42e8 Reusing old log C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_sociorei.com_0.indexeddb.leveldb/000003.log 
+2021/12/21-13:08:59.528 42e8 Level-0 table #5: started
+2021/12/21-13:08:59.531 42e8 Level-0 table #5: 4881 bytes OK
+2021/12/21-13:08:59.540 42e8 Delete type=0 #3
+2021/12/21-13:08:59.541 42e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

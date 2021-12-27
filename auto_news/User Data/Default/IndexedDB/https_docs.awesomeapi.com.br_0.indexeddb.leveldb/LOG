@@ -1,0 +1,6 @@
+2021/12/10-15:50:50.611 2af4 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.awesomeapi.com.br_0.indexeddb.leveldb since it was missing.
+2021/12/10-15:50:50.621 2af4 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.awesomeapi.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/10-15:50:50.890 2af4 Level-0 table #5: started
+2021/12/10-15:50:50.893 2af4 Level-0 table #5: 1353 bytes OK
+2021/12/10-15:50:50.896 2af4 Delete type=0 #3
+2021/12/10-15:50:50.897 2af4 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

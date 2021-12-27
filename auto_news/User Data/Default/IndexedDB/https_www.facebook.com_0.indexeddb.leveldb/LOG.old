@@ -1,0 +1,6 @@
+2021/12/04-16:30:50.569 1c78 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2021/12/04-16:30:50.580 1c78 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/04-16:31:08.077 d0c Level-0 table #5: started
+2021/12/04-16:31:08.081 d0c Level-0 table #5: 1950 bytes OK
+2021/12/04-16:31:08.085 d0c Delete type=0 #3
+2021/12/04-16:31:08.085 d0c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

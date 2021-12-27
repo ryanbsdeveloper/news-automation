@@ -1,0 +1,6 @@
+2021/12/22-17:07:00.850 4200 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_imasters.com.br_0.indexeddb.leveldb since it was missing.
+2021/12/22-17:07:00.862 4200 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_imasters.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-17:12:01.550 2ac0 Level-0 table #5: started
+2021/12/22-17:12:01.560 2ac0 Level-0 table #5: 5693 bytes OK
+2021/12/22-17:12:01.567 2ac0 Delete type=0 #3
+2021/12/22-17:12:01.569 2ac0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

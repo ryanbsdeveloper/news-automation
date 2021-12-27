@@ -1,0 +1,6 @@
+2021/12/02-01:16:50.440 30c0 Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_thetanarena.com_0.indexeddb.leveldb since it was missing.
+2021/12/02-01:16:50.485 30c0 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_thetanarena.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/02-01:16:51.477 298 Level-0 table #5: started
+2021/12/02-01:16:51.487 298 Level-0 table #5: 610 bytes OK
+2021/12/02-01:16:51.491 298 Delete type=0 #3
+2021/12/02-01:16:51.492 298 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

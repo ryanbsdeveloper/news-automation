@@ -1,0 +1,34 @@
+{
+   "checksum": "c2324717f68ab417589bdd6435f86290",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13285019900298332",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13285019900298336",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13285019900298339",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtcBCrYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgOn+MBTUBQAhgOn+MBTUBQAiFAknJ0lAFNQFABADGYHZG0Yb9AriMhgKFggCEe1vSUAU1AUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmA6f4wFNQFACGA6f4wFNQFADIYChYIAhHtb0lAFNQFABgAIQAAAAAAAAAAIABI9eWVx98vcPXllcffLyoOEAAYASAAKAAwADgAQAASACABKhh3RUErRnpvdUE5aDhVUlAwN2pNcDR3PT0SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4VEJ3STlRcXIyUEJKTkRyb1pGRXZWMnpCVXJqUVNDc1B0U1JhVGp0azE0K3FkR2t5QUFseTB1ZkwyMHpXdEt5MEs3eFQ1eW5yeEFWc2FCS2RsWWlDMlU3bDd5UT09GAAgACgAMKbOpILEgvUCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3dG44TG10MERJZmFGeHAyVFNiT3kxRm9SSW5KaC84Y2EweEZtVW9YM0xteFdwMmprWHJoMFFHMmVTSzZlZW9lUTBIS1pTcERodEtndm5vZlNmMFVUbkY5NUNrZz09GAAgACgAMKbOpILEgvUCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4bVl0eDZZeDBQaU5jSXFVNFdSNVE3cVI4d2tFbktINFFwVU56QXNrWnhiT0xCb3FBRGFuVnVZTmI1c0dzSzI4MmNLSzhMGAAgACgAMKbOpILEgvUCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAgifeVx98vMAE=",
+   "version": 1
+}

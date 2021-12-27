@@ -1,0 +1,6 @@
+2021/12/21-16:58:32.768 3ffc Creating DB C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.centauro.com.br_0.indexeddb.leveldb since it was missing.
+2021/12/21-16:58:32.779 3ffc Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.centauro.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-16:59:06.296 3b30 Level-0 table #5: started
+2021/12/21-16:59:06.299 3b30 Level-0 table #5: 2134 bytes OK
+2021/12/21-16:59:06.303 3b30 Delete type=0 #3
+2021/12/21-16:59:06.303 3b30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

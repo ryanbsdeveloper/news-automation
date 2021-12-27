@@ -1,0 +1,12 @@
+2021/12/23-15:21:05.509 4678 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/23-15:21:05.511 4678 Recovering log #15
+2021/12/23-15:21:05.548 4678 Reusing old log C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2021/12/23-15:21:13.348 914 Level-0 table #21: started
+2021/12/23-15:21:13.405 914 Level-0 table #21: 1978220 bytes OK
+2021/12/23-15:21:13.409 914 Delete type=0 #15
+2021/12/23-15:21:45.119 2418 Compacting 1@1 + 1@2 files
+2021/12/23-15:21:45.145 2418 Generated table #22@1: 206 keys, 234330 bytes
+2021/12/23-15:21:45.145 2418 Compacted 1@1 + 1@2 files => 234330 bytes
+2021/12/23-15:21:45.146 2418 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/23-15:21:45.147 2418 Delete type=2 #18
+2021/12/23-15:21:45.147 2418 Delete type=2 #21

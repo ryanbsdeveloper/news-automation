@@ -1,0 +1,51 @@
+2021/12/22-15:40:11.432 1160 Reusing MANIFEST C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-15:40:11.433 1160 Recovering log #47
+2021/12/22-15:40:11.472 1160 Reusing old log C:\Users\ryanl\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_shopee.com.br_0.indexeddb.leveldb/000047.log 
+2021/12/22-15:40:11.491 331c Level-0 table #52: started
+2021/12/22-15:40:11.525 331c Level-0 table #52: 576830 bytes OK
+2021/12/22-15:40:11.528 331c Delete type=0 #47
+2021/12/22-15:40:11.529 331c Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/22-15:40:22.709 331c Compacting 1@1 + 1@2 files
+2021/12/22-15:40:22.724 331c Generated table #53@1: 1339 keys, 53278 bytes
+2021/12/22-15:40:22.724 331c Compacted 1@1 + 1@2 files => 53278 bytes
+2021/12/22-15:40:22.726 331c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-15:40:22.726 331c Delete type=2 #49
+2021/12/22-15:40:22.726 331c Delete type=2 #52
+2021/12/22-15:48:26.141 f18 Level-0 table #55: started
+2021/12/22-15:48:26.179 f18 Level-0 table #55: 1388488 bytes OK
+2021/12/22-15:48:26.182 f18 Delete type=0 #51
+2021/12/22-15:49:23.648 1160 Compacting 1@1 + 1@2 files
+2021/12/22-15:49:23.672 1160 Generated table #56@1: 1742 keys, 98809 bytes
+2021/12/22-15:49:23.672 1160 Compacted 1@1 + 1@2 files => 98809 bytes
+2021/12/22-15:49:23.674 1160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-15:49:23.674 1160 Delete type=2 #53
+2021/12/22-15:49:23.674 1160 Delete type=2 #55
+2021/12/22-15:53:15.171 1160 Level-0 table #58: started
+2021/12/22-15:53:15.204 1160 Level-0 table #58: 1296405 bytes OK
+2021/12/22-15:53:15.206 1160 Delete type=0 #54
+2021/12/22-15:53:37.306 f18 Compacting 1@1 + 1@2 files
+2021/12/22-15:53:37.326 f18 Generated table #59@1: 1955 keys, 84338 bytes
+2021/12/22-15:53:37.326 f18 Compacted 1@1 + 1@2 files => 84338 bytes
+2021/12/22-15:53:37.328 f18 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-16:09:15.919 331c Level-0 table #61: started
+2021/12/22-16:09:15.956 331c Level-0 table #61: 743087 bytes OK
+2021/12/22-16:09:15.961 331c Delete type=2 #56
+2021/12/22-16:09:15.961 331c Delete type=0 #57
+2021/12/22-16:09:15.961 331c Delete type=2 #58
+2021/12/22-16:09:15.963 331c Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/22-16:09:29.483 2774 Compacting 1@1 + 1@2 files
+2021/12/22-16:09:29.503 2774 Generated table #62@1: 2260 keys, 74489 bytes
+2021/12/22-16:09:29.503 2774 Compacted 1@1 + 1@2 files => 74489 bytes
+2021/12/22-16:09:29.505 2774 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-16:09:29.506 2774 Delete type=2 #59
+2021/12/22-16:09:29.506 2774 Delete type=2 #61
+2021/12/22-16:10:12.486 3194 Level-0 table #64: started
+2021/12/22-16:10:12.495 3194 Level-0 table #64: 123666 bytes OK
+2021/12/22-16:10:12.497 3194 Delete type=0 #60
+2021/12/22-16:10:12.498 3194 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/22-16:10:29.811 2e48 Compacting 1@1 + 1@2 files
+2021/12/22-16:10:29.820 2e48 Generated table #65@1: 2285 keys, 73147 bytes
+2021/12/22-16:10:29.820 2e48 Compacted 1@1 + 1@2 files => 73147 bytes
+2021/12/22-16:10:29.822 2e48 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/22-16:10:29.823 2e48 Delete type=2 #62
+2021/12/22-16:10:29.823 2e48 Delete type=2 #64
