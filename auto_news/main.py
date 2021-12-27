@@ -58,10 +58,10 @@ class AutoWpp():
 
 
 if __name__ == '__main__':
-    noticia = input('Sobre qual noticia gostaria de receber? ')
-    contato = input('Para qual contato enviar a noticia? ')
-    print('Aguarde...')
+    # noticia = input('Sobre qual noticia gostaria de receber? ')
+    # contato = input('Para qual contato enviar a noticia? ')
+    # print('Aguarde...')
     app = AutoWpp()
-    link_news = app.get_a_news(noticia)
-    app.open_wpp(contato, link_news, noticia=noticia)
-    print(f'\033[1;32mPrincipal Noticia sobre \033[;1m{noticia}\033[1;32m enviada\033[m')
+    # link_news = app.get_a_news(noticia)
+    # app.open_wpp(contato, link_news, noticia=noticia)
+    # print(f'\033[1;32mPrincipal Noticia sobre \033[;1m{noticia}\033[1;32m enviada\033[m')
