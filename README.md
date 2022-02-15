@@ -11,8 +11,9 @@ O arquivo **chromedriver.exe** é um excutavel Que a **lib Selenium** usa para a
 # Passos para clonar o repositório 🏁
 
 - Tenha a biblioteca Selenium instalada em seu ambiente virtual ou na sua máquina. 🛑**IMPORTANTE**🛑
-- clone ou baixe em aquivo .zop o repositório em sua maquina.
+- clone ou baixe em aquivo .zip o repositório em sua maquina.
 - abra a pasta completa em seu editor de código.
 - execute o arquivo main.py 
     - ao excutar o main.py ele abrirá somente o navegador! Você terá q abrir o whatsapp web e se conectar. Feito isso vá na linha 60 do codigo main.py e  descomente a linhas abaixo. Agora só executar normalmente. 🛑**IMPORTANTE**🛑
-### PROJETO PESSOAL
+
+### DESENVOLVIMENTO DE PROJETO PESSOAL
