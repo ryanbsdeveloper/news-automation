@@ -17,4 +17,4 @@ O arquivo **chromedriver.exe** é um excutavel Que a **lib Selenium** usa para a
 - execute o arquivo main.py 
     - ao excutar o main.py ele abrirá somente o navegador! Você terá q abrir o whatsapp web e se conectar. Feito isso vá na linha 60 do codigo main.py e  descomente a linhas abaixo. Agora só executar normalmente. 🛑**IMPORTANTE**🛑
 
-### PROJETO PESSOAL
+### (PROJETO PESSOAL)
