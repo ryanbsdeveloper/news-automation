@@ -1,6 +1,6 @@
-### PROJETO PESSOAL
+### *Projeto pessoal*
 # Descrição  💡
-Programa que busca uma notícia na Web e envia o link via Whatsapp.
+Programa que busca uma notícia na Web e envia o link via Whatsapp. **O desafio foi fazer Sem twilio que é uma lib específica para envio de mensagens via WhatsApp**!
 O programa necessita de dois inputs, o 1° pede sobre qual assunto é a notícia desejada,
 o 2° pede o nome do contado que será enviado. Por fim abrirá o navegador e ele será maximizado, e aguarde a mensagem ser enviada.
 
@@ -17,4 +17,3 @@ O arquivo **chromedriver.exe** é um excutavel Que a **lib Selenium** usa para a
 - execute o arquivo main.py 
     - ao excutar o main.py ele abrirá somente o navegador! Você terá q abrir o whatsapp web e se conectar. Feito isso vá na linha 60 do codigo main.py e  descomente a linhas abaixo. Agora só executar normalmente. 🛑**IMPORTANTE**🛑
 
-### (PROJETO PESSOAL)
